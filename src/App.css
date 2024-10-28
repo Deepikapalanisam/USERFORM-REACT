@@ -1,0 +1,27 @@
+/* General App Styles */
+.App {
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f9fa;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+/* h1 Styling */
+.App h1 {
+  font-size: 36px;
+  color: #343a40;
+  margin-bottom: 30px;
+}
+
+/* Button Hover Styles (Global) */
+button:hover {
+  background-color: #218838;
+}
+
+/* Input Focus Styles */
