@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/USERFORM-REACT/static/css/main.71f66fae.css",
+    "main.js": "/USERFORM-REACT/static/js/main.71710c21.js",
+    "static/js/453.be73494e.chunk.js": "/USERFORM-REACT/static/js/453.be73494e.chunk.js",
+    "static/media/image.png": "/USERFORM-REACT/static/media/image.26e12dd7db668d511e5f.png",
+    "index.html": "/USERFORM-REACT/index.html",
+    "main.71f66fae.css.map": "/USERFORM-REACT/static/css/main.71f66fae.css.map",
+    "main.71710c21.js.map": "/USERFORM-REACT/static/js/main.71710c21.js.map",
+    "453.be73494e.chunk.js.map": "/USERFORM-REACT/static/js/453.be73494e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71f66fae.css",
+    "static/js/main.71710c21.js"
+  ]
+}
