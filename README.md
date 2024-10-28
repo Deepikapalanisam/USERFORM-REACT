@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-# output
-![image](https://github.com/user-attachments/assets/c9ec3fd5-2802-4c9d-825c-25c32bf57f51)
+
 # Description
 The ItemForm component is a simple, user-friendly form that allows users to add items with specific details such as name, description, and quantity. It demonstrates the use of React’s state management (useState) to handle form inputs and basic validation before submission. The component is designed to be part of a larger inventory management or product tracking system.
 # Features
